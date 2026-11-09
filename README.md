@@ -2,8 +2,8 @@
 
 A simple Excel sales tracker and monthly dashboard that shows a small retail shop its revenue, profit, best sellers, and daily sales trends, using only Microsoft Excel.
 
-![Sales Dashboard](sales-dashboard.png)
-
+![Sales Tracker](retail_excel__sales_tracker.png)
+![Sales Tracker](retail_excel__sales_tracker.png)
 ## Project Overview
 
 | | |
